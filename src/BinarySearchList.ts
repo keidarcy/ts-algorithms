@@ -1,5 +1,6 @@
 /**
  * @see https://leetcode.com/problems/binary-search/
+ * @time_complexity - O(LogN)
  */
 function binary_search(haystack: number[], needle: number) {
   let low = 0;
